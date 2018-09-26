@@ -1,0 +1,10 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: SE 350
+  role: Team Leader
+  duration: Spring of 2018
+  # url: "#"
+  description: Lead a team of developers over the course of a month to design a JavaFX 2D game utilizing multiple design patterns and custom search algorithms.
+
