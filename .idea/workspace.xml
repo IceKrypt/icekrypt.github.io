@@ -92,11 +92,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -242,12 +238,12 @@
       <workItem from="1537921976867" duration="707000" />
       <workItem from="1537922746103" duration="1801000" />
       <workItem from="1537924964550" duration="26000" />
-      <workItem from="1537925987826" duration="58000" />
+      <workItem from="1537925987826" duration="218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2592000" />
+    <option name="totallyTimeSpent" value="2752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="266" y="181" width="1734" height="1447" extended-state="0" />
@@ -327,11 +323,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
